@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">clase4</string>
+    <string name="str_1">Activity1</string>
+    <string name="str_2">Boton2</string>
+    <string name="str_item_2">opciones</string>
+    <string name="str_item_3">salir</string>
+</resources>
